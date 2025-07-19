@@ -112,7 +112,7 @@ Incorporate metadata-based forgery detection (EXIF analysis).
 
 📁 Project Structure:
 
-📁 Image-Forgery-Detection-System
+ Image-Forgery-Detection-System
 ├── main.py                     # Entry point of the system
 ├── models/                     # Saved trained models
 ├── utils/                      # Helper functions for preprocessing and visualization
