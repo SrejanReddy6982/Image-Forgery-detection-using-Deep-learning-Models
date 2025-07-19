@@ -114,9 +114,4 @@ Incorporate metadata-based forgery detection (EXIF analysis).
 
  Image-Forgery-Detection-System
 ├── main.py                     # Entry point of the system
-├── models/                     # Saved trained models
-├── utils/                      # Helper functions for preprocessing and visualization
-├── test_images/                # Sample images to test
-├── output/                     # Detected forged region masks
-├── requirements.txt
-└── README.md
+├── main.py                     # Entry point of the system
